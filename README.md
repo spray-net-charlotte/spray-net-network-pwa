@@ -2,9 +2,9 @@
 
 A mobile, tablet and desktop directory and private outreach tracker for Spray-Net South Charlotte. GitHub Pages serves the app and a reviewed directory snapshot; the desktop does not need to stay on. No hosted Python server, account, analytics, paid service or API key is required for browsing.
 
-Repository: https://github.com/benjamin41997-ctrl/spray-net-network-pwa
+Repository: https://github.com/spray-net-charlotte/spray-net-network-pwa
 
-App: https://benjamin41997-ctrl.github.io/spray-net-network-pwa/
+App: https://spray-net-charlotte.github.io/spray-net-network-pwa/
 
 ## Use
 
